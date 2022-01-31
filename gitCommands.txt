@@ -1,0 +1,9 @@
+git init
+git status
+git branch
+git checkout -b new_branch_name
+git reset --hard
+git add .
+git commit -m "message"
+git push origin branch_to_push
+git pull origin branch_to_pull
